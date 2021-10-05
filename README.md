@@ -38,5 +38,4 @@ E para acessar as rotas, os seguintes endpoints podem ser usados (após *http://
     - possibilita atualizar um aluno passando seu ID
 4. delAluno/<str:pk>/
     - possibilita excluir um aluno passando seu ID
-
-Esta aplicação também pode ser visualizada no Heroku clicando [aqui](https://cruddrfapi.herokuapp.com/getAluno)
+    
