@@ -14,7 +14,7 @@ Com o ambiente virtual ativo, instalar as bibliotecas necessarias:
 $ python -m pip install -r requirements.txt
 ```
 
-Para rodar o sistema primeiro devemos criar os "migratios"
+Para rodar o sistema primeiro devemos criar as "migrations"
 ```
 $ python manage.py makemigrations
 ```
